@@ -37,3 +37,15 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Dont push the worksheet.R file
+worksheet.R
+
+# we don´t want to push all these folders, we just want the code to produce them
+/bootstrap/data/
+
+/data/
+/model/
+/output/
+/report/
+
